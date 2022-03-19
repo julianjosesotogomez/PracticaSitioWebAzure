@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProgramacionFullStack\\Platzi\\WebAppsYLogicAppsAzure\\PlatziWeb\\PlatziWeb.csproj",
+      "projectUniqueName": "C:\\ProgramacionFullStack\\Platzi\\WebAppsYLogicAppsAzure\\PracticaSitioWebAzure\\PlatziWeb\\PlatziWeb.csproj",
       "projectName": "PlatziWeb",
-      "projectPath": "C:\\ProgramacionFullStack\\Platzi\\WebAppsYLogicAppsAzure\\PlatziWeb\\PlatziWeb.csproj",
+      "projectPath": "C:\\ProgramacionFullStack\\Platzi\\WebAppsYLogicAppsAzure\\PracticaSitioWebAzure\\PlatziWeb\\PlatziWeb.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\ProgramacionFullStack\\Platzi\\WebAppsYLogicAppsAzure\\PlatziWeb\\obj\\",
+      "outputPath": "C:\\ProgramacionFullStack\\Platzi\\WebAppsYLogicAppsAzure\\PracticaSitioWebAzure\\PlatziWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
